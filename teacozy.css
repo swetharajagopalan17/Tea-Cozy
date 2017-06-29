@@ -1,6 +1,7 @@
 * {
   background-color: black;
   text-align: center;
+  body {margin:0;}
 }
 
 header {
